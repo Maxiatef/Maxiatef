@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Maxiatef
-- 👀 I’m interested in ...
+- 👀 I’m interested in Mobile development 
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: maxatef235@gmail.com
 
 <!---
 Maxiatef/Maxiatef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
