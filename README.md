@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxiatef&label=Profile%20views&color=0e75b6&style=flat" alt="maxiatef" /> </p>
 
-- 🔭 I’m currently working on **PetPal Website** & **TopTune. Website**
-
-- 🌱 I’m currently learning **MERN Stack & Django**
+- 🌱 I’m currently learning **MERN Stack & .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maxiatef?tab=repositories](https://github.com/Maxiatef?tab=repositories)
 
