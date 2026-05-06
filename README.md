@@ -8,6 +8,8 @@
 🚀 Backend-focused developer | Learning MERN Stack & .NET | Node.js • Python • C# • AWS
 
 ---
+![Languages Metrics](https://raw.githubusercontent.com/Maxiatef/Maxiatef/main/metrics/metrics.plugin.languages.indepth.svg)
+---
 
 ## Connect With Me
 
